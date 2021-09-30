@@ -1,6 +1,10 @@
+### How can I contribute?
+
+Open an [Issue](https://github.com/elicavalheiro/front-end-learning-resources/issues/new/choose) with the links you want to share, I will add it when possible. If you'd like to create a Pull Request, please follow the instructions below.
+
 ### Fork & create a branch
 
-With the Issue created, [fork front-end-learning-resources](git@github.com:elicavalheiro/front-end-learning-resources.git) and create a branch with the issue number.
+With the Issue created, [fork front-end-learning-resources](https://github.com/elicavalheiro/front-end-learning-resources) and create a branch with the issue number.
 
 A good branch name would be (example with issue number 213):
 
