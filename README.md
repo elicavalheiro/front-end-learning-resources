@@ -31,13 +31,13 @@
 ### [YT - Fireship](https://www.youtube.com/c/Fireship/videos) - Free Content
 > Short and summarized videos about programming
 
-### [YT - DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww)
+### [YT - DevPleno](https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww) - Portuguese | Free Content
 > It's a channel focused on technical content, he teaches NodeJS, NextJS, ReactJS and Javascript 
 
-### [YT - Marco Bruno Dev](https://www.youtube.com/c/MarcoBrunoDev)
+### [YT - Marco Bruno Dev](https://www.youtube.com/c/MarcoBrunoDev) - Portuguese | Free Content
 > It's a great channel for people who wants to start a career as a Developer. He has created a free course about HTML and CSS, also has many tips about React and Javascript
 
-### [YT - Lucas Montano](https://www.youtube.com/c/LucasMontano)
+### [YT - Lucas Montano](https://www.youtube.com/c/LucasMontano) - Portuguese | Free Content
 > He gives tips for people who want to increase the code quality or improve soft skills, passing all of his experience as a Dev
 
 <br />
