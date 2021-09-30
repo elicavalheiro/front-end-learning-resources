@@ -1,6 +1,6 @@
 ### Fork & create a branch
 
-With the Issue created, [fork front-end-learning-resources] and create a branch with the issue number.
+With the Issue created, [fork front-end-learning-resources](git@github.com:elicavalheiro/front-end-learning-resources.git) and create a branch with the issue number.
 
 A good branch name would be (example with issue number 213):
 
@@ -26,4 +26,4 @@ git rebase master
 git push --set-upstream origin 213-add-new-resources
 ```
 
-Finally, go to GitHub and [make a Pull Request][] :D
+Finally, go to GitHub and [make a Pull Request](https://github.com/elicavalheiro/front-end-learning-resources/pulls) :D
