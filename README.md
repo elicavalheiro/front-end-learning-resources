@@ -75,7 +75,7 @@
 > Excellent course about applications Javascript testing
 
 
-## Some Twitter you should check :D
+## Some twitters you should check :D
 
 ### [@acdlite](https://twitter.com/acdlite)
 
