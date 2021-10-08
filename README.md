@@ -48,6 +48,12 @@
 
 > He explains about React and Next features through hands-on videos
 
+### [YT - Cassidy Williams](https://www.youtube.com/results?app=desktop&sp=mAEA&search_query=cassidy+williams) - Free Content
+
+> Cassidy is Head of DX at Netlify. She makes varied content, from Career to tutorials about something (example: React, Next, etc);
+
+### [YT - Lee Robinson](https://www.youtube.com/user/MaStaleee/videos) - Free Content
+
 <br />
 
 ## Courses and Learning Platforms
@@ -67,3 +73,18 @@
 ### [Fábio Vedovelli - Course](https://javascript.tv.br/) - Portuguese | Paid Content
 
 > Excellent course about applications Javascript testing
+
+
+## Some Twitter you should check :D
+
+### [@acdlite](https://twitter.com/acdlite)
+
+### [@wSokra](https://twitter.com/wSokra)
+
+### [@wesbos](https://twitter.com/wesbos)
+
+### [@timneutkens](https://twitter.com/timneutkens)
+
+### [@CompuIves](https://twitter.com/CompuIves)
+
+### [@devongovett](https://twitter.com/devongovett)
